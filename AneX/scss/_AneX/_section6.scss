@@ -1,0 +1,63 @@
+.section6 {
+
+    .sect6__text {
+        text-align: center;
+        margin-top: 75px;
+        margin-bottom: 60px;
+
+
+        .sect6__text-own {
+            color: #1C1C1C;
+            text-align: center;
+            font-family: Roboto;
+            font-size: 44px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+            text-transform: uppercase;
+        }
+
+        .sect6__text-ozn2 {
+            color: #1C1C1C;
+            text-align: center;
+            font-family: Roboto;
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 300;
+            line-height: normal;
+            text-transform: uppercase;
+        }
+    }
+
+    .sect6__bzz {
+        color: #1C1C1C;
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 26px;
+    }
+
+    .sect6__maxgroup {
+        width: 525px;
+        height: 316px;
+        flex-shrink: 0;
+    }
+
+    .sect6__img2 {
+        border-radius: 20px;
+        width: 394px;
+        height: 297px;
+        flex-shrink: 0;
+    }
+
+    .sect6__param2 {
+        color: var(--, #1C1C1C);
+        font-family: Roboto;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 300;
+        line-height: 26px;
+        /* 162.5% */
+    }
+}

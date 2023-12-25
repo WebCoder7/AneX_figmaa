@@ -1,0 +1,43 @@
+.section4 {
+
+
+    .sect3__card {
+        width: 302px;
+        height: 360px;
+        flex-shrink: 0;
+        border-radius: 30px;
+        background: #F8F8F8;
+        margin-bottom: 110px;
+
+        .sect4-carb {
+            text-align: center;
+            padding-top: 20px;
+
+            .sect4__img-zvezda {
+                padding-top: 10px;
+                padding-bottom: 10px;
+            }
+
+            .sect4__paramg {
+                color: #6B6B6B;
+                text-align: center;
+                font-family: Roboto;
+                font-size: 12px;
+                font-style: normal;
+                font-weight: 300;
+                line-height: normal;
+            }
+        }
+
+        .sect4__marka {
+            color: #1C1C1C;
+            font-family: Roboto;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 300;
+            line-height: 22px;
+            /* 137.5% */
+            padding-left: 25px;
+        }
+    }
+}
